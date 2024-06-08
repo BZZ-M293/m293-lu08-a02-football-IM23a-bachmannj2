@@ -7,17 +7,17 @@ body {
 
 section {
     padding: 20px;
-    background-color: #ffffff;
+    background-color: #fff;
     margin: 20px;
     border-radius: 5px;
 }
 
 h2, h3 {
-    color: #333333;
+    color: #333;
 }
 
 h1 {
-    color: #ffffff;
+    color: #fff;
 }
 
 ul {
@@ -26,14 +26,14 @@ ul {
 }
 
 nav a {
-    color: #ffffff;
+    color: #fff;
     text-decoration: none;
     margin: 0 10px;
 }
 
 header, footer {
-    background-color: #333333;
-    color: #ffffff;
+    background-color: #333;
+    color: #fff;
     padding: 10px 20px;
     text-align: center;
 }
@@ -42,14 +42,14 @@ header, footer {
     display: block;
     margin: 20px auto;
     max-width: 50%;
-    border: 2px solid #333333;
+    border: 2px solid #333;
     border-radius: 5px;
 }
 
 .news figcaption {
     text-align: center;
     font-size: 0.9em;
-    color: #666666;
+    color: #666;
 }
 
 .game {
@@ -68,7 +68,7 @@ header, footer {
     display: block;
     margin-top: 10px;
     text-decoration: none;
-    color: #0066cc;
+    color: #06c;
 }
 
 .game-report img {
@@ -94,14 +94,14 @@ header, footer {
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
-    border: 1px solid #cccccc;
+    border: 1px solid #ccc;
     border-radius: 5px;
 }
 
 .comment-section button {
     padding: 10px 20px;
-    background-color: #0066cc;
-    color: #ffffff;
+    background-color: #06c;
+    color: #fff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -119,11 +119,11 @@ header, footer {
     display: block;
     margin: 10px auto;
     max-width: 50%;
-    border: 2px solid #333333;
+    border: 2px solid #333;
     border-radius: 5px;
 }
 
 .sponsor a {
-    color: #0066cc;
+    color: #06c;
     text-decoration: none;
 }
