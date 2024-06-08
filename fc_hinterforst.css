@@ -1,0 +1,129 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+section {
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+h2, h3 {
+    color: #333;
+}
+
+h1 {
+    color: #fff;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+header, footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.news img {
+    display: block;
+    margin: 20px auto;
+    max-width: 50%;
+    border: 2px solid #333;
+    border-radius: 5px;
+}
+
+.news figcaption {
+    text-align: center;
+    font-size: 0.9em;
+    color: #666;
+}
+
+.game {
+    margin-bottom: 20px;
+}
+
+.game h3 {
+    margin: 0;
+}
+
+.game p {
+    margin: 5px 0;
+}
+
+.ticket-link, .report-link {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #0066cc;
+}
+
+.game-report img {
+    display: block;
+    margin: 10px auto;
+    max-width: 80%;
+    height: auto;
+}
+
+.comment-section {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+.comment-section label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+.comment-section input, .comment-section textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.comment-section button {
+    padding: 10px 20px;
+    background-color: #0066cc;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.comment-section button:hover {
+    background-color: #005bb5;
+}
+
+
+.sponsor {
+    margin-bottom: 20px;
+}
+
+.sponsor img {
+    display: block;
+    margin: 10px auto;
+    max-width: 50%;
+    border: 2px solid #333;
+    border-radius: 5px;
+}
+.sponsor a {
+    color: #0066cc;
+    text-decoration: none;
+}
